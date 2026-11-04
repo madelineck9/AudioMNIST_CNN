@@ -8,3 +8,4 @@ librosa
 pandas
 IPython
 numpy
+scaper
