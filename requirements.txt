@@ -1,0 +1,10 @@
+protobuf>=6.31.1,<7
+scikit-learn
+torch==2.5.1
+torchaudio==2.5.1
+tensorboard
+matplotlib
+librosa
+pandas
+IPython
+numpy
