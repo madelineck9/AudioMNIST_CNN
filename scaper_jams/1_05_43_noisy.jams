@@ -22,7 +22,7 @@
           "value": {
             "label": "noise",
             "source_file": "scaper_bank/background/noise/white.wav",
-            "source_time": 3.812389649404216,
+            "source_time": 8.724289543075503,
             "event_time": 0,
             "event_duration": 1.0,
             "snr": 0,
@@ -41,7 +41,7 @@
             "source_time": 0,
             "event_time": 0,
             "event_duration": 0.48685416666666664,
-            "snr": 22.206036181776856,
+            "snr": 18.324612079916243,
             "role": "foreground",
             "pitch_shift": null,
             "time_stretch": null
