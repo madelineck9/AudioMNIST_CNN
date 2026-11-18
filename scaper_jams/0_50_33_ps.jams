@@ -18,7 +18,7 @@
       "data": [
         {
           "time": 0.0,
-          "duration": 0.619641474645404,
+          "duration": 0.6215142191307743,
           "value": {
             "label": "0",
             "source_file": "scaper_bank/foreground/0/0_50_33.wav",
@@ -27,8 +27,8 @@
             "event_duration": 0.5774583333333333,
             "snr": 0,
             "role": "foreground",
-            "pitch_shift": 0.48374233557685864,
-            "time_stretch": 1.073049671079421
+            "pitch_shift": -0.6138137175760834,
+            "time_stretch": 1.076292752661706
           },
           "confidence": 1.0
         }

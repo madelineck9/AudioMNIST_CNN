@@ -18,7 +18,7 @@
       "data": [
         {
           "time": 0.0,
-          "duration": 0.6174271299195563,
+          "duration": 0.665144479699979,
           "value": {
             "label": "0",
             "source_file": "scaper_bank/foreground/0/0_01_39.wav",
@@ -27,8 +27,8 @@
             "event_duration": 0.6516666666666666,
             "snr": 0,
             "role": "foreground",
-            "pitch_shift": 1.3403792779478754,
-            "time_stretch": 0.9474585113855084
+            "pitch_shift": -1.7361430896422303,
+            "time_stretch": 1.0206820660357736
           },
           "confidence": 1.0
         }
@@ -102,7 +102,7 @@
           "fade_out_len": 0.01,
           "n_events": 1,
           "polyphony_max": 1,
-          "polyphony_gini": 0.6200006129022373,
+          "polyphony_gini": 0.6700004925365783,
           "allow_repeated_label": true,
           "allow_repeated_source": true,
           "reverb": null,

@@ -24,11 +24,11 @@
             "source_file": "scaper_bank/foreground/0/0_38_3.wav",
             "source_time": 0,
             "event_time": 0,
-            "event_duration": 0.9279409628313988,
+            "event_duration": 0.9266852991967297,
             "snr": 0,
             "role": "foreground",
-            "pitch_shift": 0.7705571912015508,
-            "time_stretch": 1.0776547647478882
+            "pitch_shift": 1.790315584445806,
+            "time_stretch": 1.0791149928317856
           },
           "confidence": 1.0
         }

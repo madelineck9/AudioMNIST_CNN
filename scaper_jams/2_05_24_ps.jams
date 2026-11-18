@@ -18,7 +18,7 @@
       "data": [
         {
           "time": 0.0,
-          "duration": 0.4667167281696321,
+          "duration": 0.5230801481462745,
           "value": {
             "label": "2",
             "source_file": "scaper_bank/foreground/2/2_05_24.wav",
@@ -27,8 +27,8 @@
             "event_duration": 0.5008958333333333,
             "snr": 0,
             "role": "foreground",
-            "pitch_shift": -0.9756115320504284,
-            "time_stretch": 0.9317640457572824
+            "pitch_shift": -1.6082483961747367,
+            "time_stretch": 1.044289278002794
           },
           "confidence": 1.0
         }
@@ -102,7 +102,7 @@
           "fade_out_len": 0.01,
           "n_events": 1,
           "polyphony_max": 1,
-          "polyphony_gini": 0.47000112765717517,
+          "polyphony_gini": 0.5200009230751479,
           "allow_repeated_label": true,
           "allow_repeated_source": true,
           "reverb": null,
